@@ -5,6 +5,6 @@ This project will show the main characteristics of this stylesheet language.
 
 ![sass](https://github.com/teles1g/le-scone/blob/master/sass.png)
 
-Tool: https://scout-app.io/
+Scout-App: https://scout-app.io/
 
 Documentation: https://sass-lang.com/documentation
